@@ -35,4 +35,5 @@ Power BI Interactive Dashboard
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+<img width="1732" height="737" alt="image" src="https://github.com/user-attachments/assets/3d66cb3f-c713-4bff-8802-c06ae0cb0704" />
+
